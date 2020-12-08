@@ -1,4 +1,5 @@
 import os
+import webbrowser
 os.system("sudo apt-get install figlet")
 os.system("figlet Wifi-Cracker Tool")
 print("""
@@ -6,6 +7,7 @@ print("""
 Wifi Hacker All Tool. Coded By arda6
 
 """)
+webbrowser.open("https://github.com/arda6")
 print("You Accept All Responsibility.")
 print("""
 
